@@ -1,1 +1,1 @@
-# Vscod-
+Acessamos o Visual Studio Code e criamos uma pasta onde é possível colocar várias frases diferentes, logo em seguida salvamos o projeto na pasta de trabalho  com o nome completo. Jogamos o projeto no Github e nomeamos de Vscod, depois salvamos o arquivo e fizemos um '' relatório'' explicando o passo a passo do projeto, salvamos e enviamos para professora. 
